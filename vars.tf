@@ -1,0 +1,11 @@
+variable "component" {}
+variable "SUBNETS" {}
+variable "DESIRED" {}
+variable "MIN" {}
+variable "MAX" {}
+variable "VPC_CIDR" {}
+variable "MGMT_CIDR" {}
+variable "APP_PORT" {}
+variable "ENV" {}
+variable "VPC_ID" {}
+variable "HEALTH" {}
